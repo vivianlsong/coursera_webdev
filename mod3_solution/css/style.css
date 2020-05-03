@@ -18,6 +18,11 @@ body {
     margin-top: 22px;
 }
 
+.navbar-default {
+	background-color: #80dfff;
+	border-color: #0099cc;
+}
+
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #fce29e;
 }
