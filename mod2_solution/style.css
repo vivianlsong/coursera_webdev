@@ -27,6 +27,8 @@ p {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
 }
 
 #Beef {
@@ -35,6 +37,8 @@ p {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
 }
 
 #Pork {
@@ -43,6 +47,8 @@ p {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
 }
 
 /* Simple Responsive Framework. */
