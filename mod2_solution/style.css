@@ -23,7 +23,7 @@ section {
 }
 
 p {
-	paddint: 10px;
+	padding: 10px;
 }
 
 #Chicken {
@@ -40,7 +40,7 @@ p {
 }
 
 #Beef {
-	background-color: #53c68c;
+	background-color: #b3e6cb;
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
