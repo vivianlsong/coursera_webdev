@@ -1,82 +1,94 @@
-* {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-}
-
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #e2ffd2;
-    color: #08440e;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #1a1a1a;
+    background-color: #599e4b;
 }
 
-.navbar-custom {
-    background-color: #d4eda2;
-    border: 0px #08440e;
+
+/** HEADER **/
+
+#header-nav {
+    background-color: #c98715;
+    border-radius: 0;
+    border: 0;
 }
 
-.navbar-brand {
-    height: 70px;
+#header-nav button {
+    margin-top: 22px;
 }
 
-#main-button {
-    margin-top: 18px;
-    margin-bottom: 18px;
-    border-color: #cdd43e;
-    background-color: #d6e97f;
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fce29e;
 }
 
-#main-button:hover {
-    background-color: #e5eb6a;
+.navbar-collapse {
+    border-top: 0;
 }
 
-#main-button > .icon-bar {
-    background-color: #cdd43e;
+.navbar-brand, .navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
 }
 
-#bs-example-navbar-collapse-1 {
-    border-color: #cdd43e;
+.navbar-brand h1 {
+    color: #7d1913;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: bolder;
+    font-size: 1.8em;
 }
 
-h1.title {
-    margin: 0px;
-    padding: 0px;
-    color: #395135;
+.navbar-brand a:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #fe9797;
+}
+
+#nav-list {
+    background-color: #e4af34;
+}
+
+#nav-list a {
+    font-weight: bolder;
+    color: #282828;
+    font-size: 1.2em;
+}
+
+#nav-list a:hover {
+    color: #202020;
+    background-color: #fce29e;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #7d1913;
+}
+
+
+/** END HEADER */
+
+
+/** HOME PAGE **/
+
+#main-content {
+    width: 92%;
+    margin-bottom: 40px;
+}
+
+#main-content h2 {
+    font-size: 2.9em;
     font-weight: bold;
-}
-
-h3.main-content-title {
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-div.main-content {
-    background-color: #c1edaf;
-    text-align: justify;
-    padding: 0px 30px 30px 30px;
     margin-top: 30px;
-    margin-bottom: 30px;
-    width: 90%;
+    margin-bottom: 50px;
 }
 
-.mobile-menu {
-    background-color: #d4eda2;
-    padding: 0px;
+#main-content h3 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-bottom: 1em;
 }
 
-.mobile-menu > ul {
-    margin: 0px;
-    background-color: #e5eb6a;
-}
-
-.navbar-default .mobile-menu .navbar-nav > li {
-    border-bottom: 1px solid #cdd43e;
-}
-
-.navbar-default .mobile-menu .navbar-nav > li > a {
-    color: #8f942b;
-}
-
-.navbar-default .mobile-menu .navbar-nav > li > a:hover {
-    color: #6d7121;
+#main-section {
+    background-color: #82d06b;
+    box-shadow: 0 0 50px #0f5900;
+    padding: 30px;
 }
