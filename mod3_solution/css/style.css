@@ -33,7 +33,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #155151
+    color: #003333
     font-weight: bolder;
     font-size: 1.8em;
 }
@@ -59,7 +59,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #155151;
+    border: 1px solid #003333;
 }
 
 
@@ -88,7 +88,7 @@ body {
 
 #main-section {
     background-color: #b3e6cb;
-    box-shadow: 0 0 30px #2eb8b8;
+    box-shadow: 0 0 50px #669999;
     padding: 30px;
 }
 
