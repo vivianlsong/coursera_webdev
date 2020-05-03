@@ -19,7 +19,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #76b8db;
+    background-color: #b3e6cb;
 }
 
 .navbar-collapse {
@@ -44,7 +44,7 @@ body {
 }
 
 #nav-list {
-    background-color: #00d6d6;
+    background-color: #b3e6cb;
 }
 
 #nav-list a {
