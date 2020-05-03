@@ -25,8 +25,8 @@ p {
 	background-color: #76b8db;
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	float: right;
+	width: 150px;
 	font-weight: bold;
 	font-size: 125%;
 }
@@ -35,8 +35,8 @@ p {
 	background-color: #b3e6cb;
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	float: right;
+	width: 150px;
 	font-weight: bold;
 	font-size: 125%;
 }
@@ -45,8 +45,8 @@ p {
 	background-color: #9999ff;
 	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
+	float: right;
+	width: 150px;
 	font-weight: bold;
 	font-size: 125%;
 }
