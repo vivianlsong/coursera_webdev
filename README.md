@@ -5,4 +5,5 @@ This repository contains my solutions to the assignments of the pre-work Courser
 ### Assignment Webpages
 
 1. Module 2: (https://vivianlsong.github.io/coursera_webdev/mod2_solution/)
+2. Module 3: (file:///C:/Users/Vivian/Documents/GitHub/coursera_webdev/mod3_solution/index.html)
 
