@@ -30,6 +30,8 @@ p {
 	width: 200px;
 	font-weight: bold;
 	font-size: 125%;
+	margin-top: 5px;
+	margin-bottom: 5px; 
 }
 
 #Beef {
@@ -40,6 +42,8 @@ p {
 	width: 200px;
 	font-weight: bold;
 	font-size: 125%;
+	margin-top: 5px;
+	margin-bottom: 5px; 
 }
 
 #Pork {
@@ -50,6 +54,8 @@ p {
 	width: 200px;
 	font-weight: bold;
 	font-size: 125%;
+	margin-top: 5px;
+	margin-bottom: 5px; 
 }
 
 /* Simple Responsive Framework. */
