@@ -17,6 +17,8 @@ section {
   text-align: left;
   background-color: #d9d9d9;
   position: relative;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 p {
