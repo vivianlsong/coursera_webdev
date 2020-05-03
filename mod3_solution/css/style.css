@@ -40,11 +40,11 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px #669999;
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #009999;
 }
 
 #nav-list a {
@@ -55,7 +55,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: #83e8d4;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -88,7 +88,7 @@ body {
 
 #main-section {
     background-color: #b3e6cb;
-    box-shadow: 0 0 50px #669999;
+    box-shadow: 0 0 50px #a5ceb8;
     padding: 30px;
 }
 
