@@ -75,20 +75,21 @@ body {
 }
 
 #main-content h2 {
-    font-size: 2.9em;
+    font-size: 5.0em;
     font-weight: bold;
     margin-top: 30px;
     margin-bottom: 50px;
 }
 
 #main-content h3 {
-    font-size: 1.6em;
+    font-size: 2.5em;
     font-weight: bold;
     margin-bottom: 1em;
+    background-color: #76b8db;
 }
 
 #main-section {
-    background-color: #82d06b;
+    background-color: #d9d9d9;
     box-shadow: 0 0 50px #0f5900;
     padding: 30px;
 }
