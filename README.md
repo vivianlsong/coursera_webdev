@@ -6,4 +6,5 @@ This repository contains my solutions to the Web Development Coursera Course ass
 
 1. Module 2 Webpage: https://vivianlsong.github.io/coursera_webdev/mod2_solution/
 2. Module 3 Webpage: https://vivianlsong.github.io/coursera_webdev/mod3_solution/
+3. Module 4 Webpage: https://vivianlsong.github.io/coursera_webdev/mod4_solution/
 
